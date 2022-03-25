@@ -14,7 +14,7 @@
     "@types/node": "^13.1.7",
     "@types/react": "^16.9.17",
     "babel-plugin-styled-components": "^1.10.6",
-    "electron": "^7.1.9",
+    "electron": "^13.6.6",
     "next": "^9.1.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
